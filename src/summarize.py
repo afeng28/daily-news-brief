@@ -7,7 +7,7 @@ import requests
 import trafilatura
 from google import genai
 from google.genai import types
-from google.genai.errors import ClientError
+from google.genai.errors import ClientError, ServerError
 
 logger = logging.getLogger(__name__)
 
@@ -49,10 +49,11 @@ def summarize_story(story: dict) -> str:
                 config=types.GenerateContentConfig(temperature=0.5),
             )
             return response.text.strip()
-        except ClientError as exc:
-            if "429" in str(exc) and attempt < 3:
+        except (ClientError, ServerError) as exc:
+            retryable = "429" in str(exc) or "503" in str(exc)
+            if retryable and attempt < 3:
                 wait = 15 * (attempt + 1)  # 15s, 30s, 45s
-                logger.info("Rate limited; waiting %ds (attempt %d/3)…", wait, attempt + 1)
+                logger.info("Transient error (%s); waiting %ds (attempt %d/3)…", exc.__class__.__name__, wait, attempt + 1)
                 time.sleep(wait)
             else:
                 raise

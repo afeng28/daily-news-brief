@@ -1,9 +1,11 @@
 import json
 import logging
 import os
+import time
 
 from google import genai
 from google.genai import types
+from google.genai.errors import ClientError, ServerError
 
 logger = logging.getLogger(__name__)
 
@@ -37,15 +39,26 @@ def select_top_stories(candidates: list[dict]) -> list[dict]:
 
     candidate_text = _build_candidate_list(candidates)
 
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=candidate_text,
-        config=types.GenerateContentConfig(
-            system_instruction=_SYSTEM_PROMPT,
-            temperature=0.3,
-            response_mime_type="application/json",
-        ),
-    )
+    for attempt in range(4):
+        try:
+            response = client.models.generate_content(
+                model=MODEL,
+                contents=candidate_text,
+                config=types.GenerateContentConfig(
+                    system_instruction=_SYSTEM_PROMPT,
+                    temperature=0.3,
+                    response_mime_type="application/json",
+                ),
+            )
+            break
+        except (ClientError, ServerError) as exc:
+            retryable = "429" in str(exc) or "503" in str(exc)
+            if retryable and attempt < 3:
+                wait = 15 * (attempt + 1)  # 15s, 30s, 45s
+                logger.info("Transient error (%s); waiting %ds (attempt %d/3)…", exc.__class__.__name__, wait, attempt + 1)
+                time.sleep(wait)
+            else:
+                raise
 
     data = json.loads(_clean_json(response.text))
     selections = data["selections"]

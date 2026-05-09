@@ -33,12 +33,12 @@ def send_email(subject: str, html_body: str) -> None:
     username = os.environ["SMTP_USERNAME"]
     password = os.environ["SMTP_PASSWORD"]
     from_addr = os.environ["EMAIL_FROM"]
-    to_addr = os.environ["EMAIL_TO"]
+    to_addrs = [a.strip() for a in os.environ["EMAIL_TO"].split(",")]
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = from_addr
-    msg["To"] = to_addr
+    msg["To"] = ", ".join(to_addrs)
     msg.attach(MIMEText(_html_to_plain(html_body), "plain"))
     msg.attach(MIMEText(html_body, "html"))
 
@@ -47,8 +47,8 @@ def send_email(subject: str, html_body: str) -> None:
         smtp.starttls()
         smtp.ehlo()
         smtp.login(username, password)
-        smtp.sendmail(from_addr, [to_addr], msg.as_string())
-        logger.info("Email sent to %s", to_addr)
+        smtp.sendmail(from_addr, to_addrs, msg.as_string())
+        logger.info("Email sent to %s", ", ".join(to_addrs))
 
 
 def _html_to_plain(html: str) -> str:
@@ -100,7 +100,7 @@ if __name__ == "__main__":
 
     date_str = date.today().strftime("%B %-d, %Y")
     html = render_email(placeholder_stories, date_str)
-    subject = f"[TEST] Daily Brief — {date_str}"
+    subject = f"[TEST] Angie's Daily News Brief — {date_str}"
 
     print(f"Sending test email: {subject}")
     send_email(subject, html)

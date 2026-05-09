@@ -28,3 +28,11 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python -m src.main
+
+      - name: Save seen articles
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add seen.json
+          git diff --staged --quiet || git commit -m "chore: update seen articles [skip ci]"
+          git push

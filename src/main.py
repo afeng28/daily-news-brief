@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 
 from src.email_sender import render_email, send_email
 from src.fetch import deduplicate, fetch_all_sources, filter_recent
+from src.seen import load_seen_urls, save_seen_urls
 from src.select import select_top_stories
 from src.summarize import summarize_all
 
@@ -22,7 +23,9 @@ def main() -> None:
         stories = fetch_all_sources()
         stories = filter_recent(stories, hours=24)
         stories = deduplicate(stories)
-        logger.info("%d candidates after dedup", len(stories))
+        seen_urls = load_seen_urls()
+        stories = [s for s in stories if s["url"] not in seen_urls]
+        logger.info("%d candidates after dedup and seen filter", len(stories))
 
         # ── 2. Select ─────────────────────────────────────────────────
         logger.info("Selecting top 10 with Gemini…")
@@ -38,7 +41,8 @@ def main() -> None:
         # ── 4. Send ───────────────────────────────────────────────────
         date_str = _today_str()
         html = render_email(selected, date_str)
-        send_email(f"Daily Brief — {date_str}", html)
+        send_email(f"Angie's Daily News Brief — {date_str}", html)
+        save_seen_urls([s["url"] for s in selected])
         logger.info("Brief sent.")
 
     except Exception:
@@ -54,7 +58,7 @@ def _today_str() -> str:
 
 def _send_failure_email(tb: str) -> None:
     try:
-        subject = f"Daily Brief FAILED — {_today_str()}"
+        subject = f"Angie's Daily News Brief FAILED — {_today_str()}"
         html = (
             "<p style='font-family:monospace;color:#c00'>The daily brief pipeline "
             f"failed with the following error:</p><pre>{tb}</pre>"

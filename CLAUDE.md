@@ -1,26 +1,31 @@
 # CLAUDE.md — Daily News Brief
 
-## Project status (as of 2026-05-06)
+## Project status (as of 2026-05-09)
 
-All 7 build stages are complete. The pipeline is deployed to GitHub Actions.
-The first automated cron run is expected tomorrow morning (~7:30–8:45 AM ET).
-A manual Actions trigger failed today only because the Gemini free-tier daily
-quota (20 RPD) was exhausted from development testing. The code itself is correct.
+All 7 build stages are complete and confirmed working end-to-end. The pipeline
+is triggered daily at 8 AM ET via cron-job.org → GitHub Actions workflow_dispatch
+(replaced the native GitHub cron). A full test run on 2026-05-09 delivered
+successfully to both recipients.
 
 ### What's working
 - RSS fetch, filter, dedup (`src/fetch.py`, `src/sources.py`)
 - Gemini story selection with JSON output (`src/select.py`)
 - Parallel Gemini summarization with rate-limit retry (`src/summarize.py`)
 - Jinja2 HTML email template (`templates/email.html`)
-- Gmail SMTP sending with plain-text fallback (`src/email_sender.py`)
+- Gmail SMTP sending to multiple recipients (`src/email_sender.py`)
 - Orchestrator with failure-email fallback (`src/main.py`)
-- GitHub Actions cron at 12:30 UTC daily (`daily.yml`)
+- cron-job.org triggers `workflow_dispatch` at 12:00 UTC daily (`daily.yml`)
+- Cross-day deduplication via `seen.json` + `src/seen.py`; `daily.yml` commits updated file after each run
 - Git history contains no real email addresses
 
+### Recipients
+`EMAIL_TO` secret holds comma-separated addresses: both `security@copleyfinance.com`
+and `angie.feng@duke.edu`. To add/remove recipients, update that secret only —
+no code changes needed.
+
 ### Immediate next step
-Wait for the cron to fire tomorrow morning and confirm the brief arrives.
-If it doesn't arrive, check the Actions log — most likely cause is another
-429 from Gemini, which resolves on its own the next day.
+Monitor tomorrow's 8 AM ET run in GitHub Actions to confirm the seen.json
+commit step completes green (fixed permissions on 2026-05-09).
 
 ---
 
@@ -63,6 +68,21 @@ selection call become a problem, add the same retry pattern there.
 15 RPM / 5 workers would exceed the per-minute budget during bursts. 3 workers
 provides a comfortable margin. If summaries start timing out or rate-limiting
 frequently, drop to 2.
+
+### Cross-day deduplication via `seen.json`
+After each successful send, `src/seen.py` appends the sent article URLs (with
+date) to `seen.json`, keeping entries for 7 days. On the next run, `main.py`
+loads these URLs and filters them out before passing candidates to Gemini.
+`daily.yml` commits and pushes the updated `seen.json` back to the repo using
+`github-actions[bot]` with `permissions: contents: write`. Without the explicit
+permission, the push step returns a 403 and the job fails even though the email
+was already sent.
+
+### cron-job.org trigger
+GitHub's native cron was replaced because it silently skips runs when Actions
+queues are busy. cron-job.org POSTs to the workflow dispatch API at 12:00 UTC.
+The `Authorization` header must be `Bearer <token>` (not just the raw token).
+The PAT needs **Actions: read and write** permission on the repo.
 
 ### Git privacy
 `git config --global user.email` is set to the GitHub noreply address

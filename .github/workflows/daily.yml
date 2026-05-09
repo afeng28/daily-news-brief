@@ -1,9 +1,7 @@
 name: Daily News Brief
 
 on:
-  schedule:
-    - cron: '30 12 * * *'  # 7:30 AM ET (winter) / 8:30 AM ET (summer)
-  workflow_dispatch:        # allows manual trigger from the Actions tab
+  workflow_dispatch:        # triggered by cron-job.org daily at 12:00 UTC (8 AM ET)
 
 jobs:
   send-brief:

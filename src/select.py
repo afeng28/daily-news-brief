@@ -54,7 +54,7 @@ def select_top_stories(candidates: list[dict]) -> list[dict]:
         except (ClientError, ServerError) as exc:
             retryable = "429" in str(exc) or "503" in str(exc)
             if retryable and attempt < 3:
-                wait = 15 * (attempt + 1)  # 15s, 30s, 45s
+                wait = 60 * (attempt + 1)  # 60s, 120s, 180s
                 logger.info("Transient error (%s); waiting %ds (attempt %d/3)…", exc.__class__.__name__, wait, attempt + 1)
                 time.sleep(wait)
             else:

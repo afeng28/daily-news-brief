@@ -1,7 +1,7 @@
 name: Daily News Brief
 
 on:
-  workflow_dispatch:        # triggered by cron-job.org daily at 12:00 UTC (8 AM ET)
+  workflow_dispatch:        # triggered by cron-job.org daily at 10:00 UTC (6 AM ET)
 
 jobs:
   send-brief:

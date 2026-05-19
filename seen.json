@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://thehill.com/homenews/administration/5871352-trump-ai-iran-warships/",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://www.politico.com/news/2026/05/09/poll-americans-say-too-much-money-in-politics-00912455",
-    "date": "2026-05-10"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/11/trump-china-summit-iran-ai-xi-jinping",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/11/jensen-huang-carnegie-mellon-commencement-ai",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/11/us/politics/nsf-science-congress-trump.html",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/05/us-investors-warm-ukrainian-defense-startups-export-laws-slow-cooperation/413446/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.govexec.com/management/2026/05/cbp-border-wall-plans-big-bend-national-park/413441/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/11/podcasts/the-headlines/trump-iran-hantavirus.html",
-    "date": "2026-05-11"
-  },
-  {
     "url": "https://therecord.media/texas-sues-netflix-over-data-practices-surveillance",
     "date": "2026-05-12"
   },
@@ -318,5 +238,45 @@
   {
     "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
     "date": "2026-05-17"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/05/advanced-ai-models-bring-government-reflection-point-cia-official-says/413623/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/05/gsa-onegov-ai-deals-millions-federal-users/413608/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/19/us/politics/pentagon-weapons-drones-iran-war-hegseth.html",
+    "date": "2026-05-19"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude",
+    "date": "2026-05-19"
   }
 ]

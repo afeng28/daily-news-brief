@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://therecord.media/openai-asks-macos-users-to-update-tanstack-npm",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.defenseone.com/defense-systems/2026/05/us-infantrys-drone-warfare-experiments-are-getting-bigger/413568/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.justsecurity.org/138215/nuclear-powered-ai-risks-deregulation/?utm_source=rss&utm_medium=rss&utm_campaign=nuclear-powered-ai-risks-deregulation",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.govexec.com/technology/2026/05/house-homeland-briefing-anthropics-mythos/413554/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/05/the-pentagon-wants-10000-small-cruise-missiles-heres-who-is-making-them/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
-    "date": "2026-05-15"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
     "date": "2026-05-16"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-22"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://www.defenseone.com/ideas/2026/05/pentagons-54-billion-bet-autonomous-warfare/413735/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/22/tulsi-gabbard-removed-trump-administration",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/22/ai-executive-order-cancelled-white-house",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "date": "2026-05-23"
   }
 ]

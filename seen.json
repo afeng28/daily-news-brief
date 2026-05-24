@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/05/even-drones-usher-era-cheap-kill-army-leaders-look-whats-next/413596/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/05/hegseth-pentagon-legal-system-reform/413587/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/05/trump-cyberattacks-spying-china/413594/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/15/us-china-ai-race-3-conflicts",
-    "date": "2026-05-16"
-  },
-  {
     "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
     "date": "2026-05-17"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
     "date": "2026-05-23"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/05/smaller-easier-smarter-what-special-operations-forces-need-ai-now/413748/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/05/space-force-needs-prepare-person-moon-conflict-china-new-report-argues/413747/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/23/white-house-gunshots",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://thehill.com/policy/technology/5892828-new-york-city-comptroller-mark-levine-ai-jobs/",
+    "date": "2026-05-24"
   }
 ]

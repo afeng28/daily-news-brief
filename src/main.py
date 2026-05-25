@@ -1,4 +1,5 @@
 import logging
+import os
 import traceback
 from datetime import date
 
@@ -48,7 +49,8 @@ def main() -> None:
     except Exception:
         tb = traceback.format_exc()
         logger.error("Pipeline failed:\n%s", tb)
-        _send_failure_email(tb)
+        if os.environ.get("BRIEF_FAIL_NOTIFY", "1") != "0":
+            _send_failure_email(tb)
         raise
 
 

@@ -20,7 +20,28 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run brief
+      - name: Run brief (attempt 1)
+        id: attempt1
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SMTP_HOST: smtp.gmail.com
+          SMTP_PORT: 587
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          BRIEF_FAIL_NOTIFY: "0"
+        run: python -m src.main
+
+      - name: Wait before retry
+        if: steps.attempt1.outcome == 'failure'
+        run: |
+          echo "Attempt 1 failed — waiting 5 minutes before retry…"
+          sleep 300
+
+      - name: Run brief (attempt 2)
+        if: steps.attempt1.outcome == 'failure'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SMTP_HOST: smtp.gmail.com

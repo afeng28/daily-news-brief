@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/17/trump-xi-summit-china-taiwan-invasion",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://thehill.com/homenews/house/5880731-black-democrats-gop-redistricting/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://thehill.com/opinion/technology/5880171-ai-skills-education-abundance/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
-    "date": "2026-05-17"
-  },
-  {
     "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
     "date": "2026-05-19"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://thehill.com/policy/technology/5892828-new-york-city-comptroller-mark-levine-ai-jobs/",
     "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/05/military-says-its-ready-fight-tonight-pacific-can-it-sustain-fight/413750/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/25/pope-leo-xiv-ai-humanity-war-jobs-warning",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+    "date": "2026-05-25"
   }
 ]

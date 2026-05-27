@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/05/advanced-ai-models-bring-government-reflection-point-cia-official-says/413623/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.govexec.com/technology/2026/05/gsa-onegov-ai-deals-millions-federal-users/413608/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/19/us/politics/pentagon-weapons-drones-iran-war-hegseth.html",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude",
-    "date": "2026-05-19"
-  },
-  {
     "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
     "date": "2026-05-20"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.axios.com/2026/05/26/cisa-white-house-cybersecurity-ai",
     "date": "2026-05-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/05/opm-proposes-feds-sign-nda/413778/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/27/ai-hype-doom-openai-anthropic",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/27/pam-bondi-white-house-ai",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://warontherocks.com/cogs-of-war/synthetic-biology-drones-and-ai-the-risks-of-dual-use-technologies/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "date": "2026-05-27"
   }
 ]

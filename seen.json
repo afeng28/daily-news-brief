@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://therecord.media/discord-migrates-users-to-end-to-end-encryption",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/21/ebole-response-trump-health-cuts",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://warontherocks.com/cogs-of-war/chinas-ai-governance-offensive-threatens-u-s-tech-leadership/",
-    "date": "2026-05-21"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-    "date": "2026-05-21"
-  },
-  {
     "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
     "date": "2026-05-22"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/gadgets/2026/05/govee-says-it-mistakenly-licensed-white-supremacy-book-pic-to-sell-smart-lights/",
     "date": "2026-05-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://therecord.media/russia-conducting-attacks-on-uk-gchq-briefing",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.justsecurity.org/138443/weaponization-glomag-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=weaponization-glomag-sanctions",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.justsecurity.org/139920/us-defense-budget-indo-pacific-policy/?utm_source=rss&utm_medium=rss&utm_campaign=us-defense-budget-indo-pacific-policy",
+    "date": "2026-05-29"
   }
 ]

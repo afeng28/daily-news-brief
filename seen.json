@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://www.defenseone.com/ideas/2026/05/pentagons-54-billion-bet-autonomous-warfare/413735/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/22/tulsi-gabbard-removed-trump-administration",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/22/ai-executive-order-cancelled-white-house",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "date": "2026-05-23"
-  },
-  {
     "url": "https://www.defenseone.com/technology/2026/05/smaller-easier-smarter-what-special-operations-forces-need-ai-now/413748/",
     "date": "2026-05-24"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
     "date": "2026-05-30"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/05/aukus-partners-sign-agreement-on-underwater-drones-speed-up-sub-plan/",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html",
+    "date": "2026-05-31"
   }
 ]

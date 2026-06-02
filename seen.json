@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.defenseone.com/technology/2026/05/smaller-easier-smarter-what-special-operations-forces-need-ai-now/413748/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/05/space-force-needs-prepare-person-moon-conflict-china-new-report-argues/413747/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/23/white-house-gunshots",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://thehill.com/policy/technology/5892828-new-york-city-comptroller-mark-levine-ai-jobs/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/05/military-says-its-ready-fight-tonight-pacific-can-it-sustain-fight/413750/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/25/pope-leo-xiv-ai-humanity-war-jobs-warning",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-    "date": "2026-05-25"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
     "date": "2026-05-26"
   },
@@ -318,5 +238,45 @@
   {
     "url": "https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html",
     "date": "2026-05-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/02/openai-codex-knowledge-workers",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/01/alphabet-80-billion-ai-buildout",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://www.justsecurity.org/140413/dangerous-speech-white-houses-aliens-website/?utm_source=rss&utm_medium=rss&utm_campaign=dangerous-speech-white-houses-aliens-website",
+    "date": "2026-06-02"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/25/world/middleeast/us-iran-strikes.html",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/26/cisa-white-house-cybersecurity-ai",
-    "date": "2026-05-26"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
     "date": "2026-05-27"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.justsecurity.org/140413/dangerous-speech-white-houses-aliens-website/?utm_source=rss&utm_medium=rss&utm_campaign=dangerous-speech-white-houses-aliens-website",
     "date": "2026-06-02"
+  },
+  {
+    "url": "https://therecord.media/white-house-unveils-ai-executive-order",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/06/bill-regulate-military-ai/413917/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://thehill.com/homenews/campaign/5904433-ashley-hinson-josh-turek-iowa-senate/",
+    "date": "2026-06-03"
   }
 ]

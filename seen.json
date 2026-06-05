@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://therecord.media/romanian-national-sentenced-to-over-4-years-oregon-hack",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://therecord.media/fbi-warns-hackers-visit-law-firms-to-steal-data",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/05/how-pentagon-plans-spend-50-billion-drone-warfare/413805/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://therecord.media/rudd-orders-cyber-command-reviews-as-pentagon-presses-reform-agenda",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/05/govee-says-it-mistakenly-licensed-white-supremacy-book-pic-to-sell-smart-lights/",
-    "date": "2026-05-28"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
     "date": "2026-05-29"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
     "date": "2026-06-04"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/06/thales-ramps-up-guided-rocket-production-to-address-increased-me-demand/",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://therecord.media/ftc-considers-modifying-150-million-twitter-privacy-fine",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/05/china-fueling-us-data-center-resistance-ai-groups-claim",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://warontherocks.com/cogs-of-war/the-pentagons-ai-edge-is-being-distilled-away/",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://therecord.media/trump-considers-palantir-exec-to-lead-cisa",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/04/science/embryos-gene-editing-crispr.html",
+    "date": "2026-06-05"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+    "date": "2026-06-05"
   }
 ]

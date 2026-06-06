@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://therecord.media/russia-conducting-attacks-on-uk-gchq-briefing",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.justsecurity.org/138443/weaponization-glomag-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=weaponization-glomag-sanctions",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.justsecurity.org/139920/us-defense-budget-indo-pacific-policy/?utm_source=rss&utm_medium=rss&utm_campaign=us-defense-budget-indo-pacific-policy",
-    "date": "2026-05-29"
-  },
-  {
     "url": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
     "date": "2026-05-30"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
     "date": "2026-06-05"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://therecord.media/eu-unveils-tech-sovereignty-package-cut-reliance-us-china",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/06/dod-cyber-strategy-will-set-a-clear-and-specific-vision-for-ai-to-enable-the-force-official/",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.justsecurity.org/141315/what-trump-ai-eo-got-right/?utm_source=rss&utm_medium=rss&utm_campaign=what-trump-ai-eo-got-right",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://thehill.com/homenews/state-watch/5912788-new-york-data-center-moratorium/",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/",
+    "date": "2026-06-06"
   }
 ]

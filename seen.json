@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://therecord.media/microsoft-calls-zero-day-releases-never-justifiable-as-researcher-threatens-more",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/05/q-gen-frank-donovan/413870/",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/05/data-brokers-troops-pentagon-lawmakers/413853/",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-    "date": "2026-05-30"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
     "date": "2026-05-31"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/",
     "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/06/trump-us-stake-ai-companies",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-07"
   }
 ]

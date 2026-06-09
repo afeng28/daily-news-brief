@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/05/aukus-partners-sign-agreement-on-underwater-drones-speed-up-sub-plan/",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html",
-    "date": "2026-05-31"
-  },
-  {
     "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
     "date": "2026-06-02"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-07"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/06/trump-memo-pushes-national-security-agencies-move-faster-ai/414047/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://www.justsecurity.org/141133/russia-drones-europe/?utm_source=rss&utm_medium=rss&utm_campaign=russia-drones-europe",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+    "date": "2026-06-09"
+  },
+  {
+    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+    "date": "2026-06-09"
   }
 ]

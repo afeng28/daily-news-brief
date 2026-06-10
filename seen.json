@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/02/openai-codex-knowledge-workers",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/01/alphabet-80-billion-ai-buildout",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-    "date": "2026-06-02"
-  },
-  {
-    "url": "https://www.justsecurity.org/140413/dangerous-speech-white-houses-aliens-website/?utm_source=rss&utm_medium=rss&utm_campaign=dangerous-speech-white-houses-aliens-website",
-    "date": "2026-06-02"
-  },
-  {
     "url": "https://therecord.media/white-house-unveils-ai-executive-order",
     "date": "2026-06-03"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
     "date": "2026-06-09"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/06/cisa-directive-cyber-risk/414081/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://therecord.media/uk-weakens-telecoms-defenses-after-industry-lobbying",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/10/supreme-court-trump-elections-midterms-immigration",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/06/in-memo-to-centcom-commanders-cooper-warns-of-duty-to-protect-civilians/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/09/drone-boat-helicopter-rescue-iran-saronic",
+    "date": "2026-06-10"
   }
 ]

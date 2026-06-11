@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://therecord.media/white-house-unveils-ai-executive-order",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/06/bill-regulate-military-ai/413917/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://thehill.com/homenews/campaign/5904433-ashley-hinson-josh-turek-iowa-senate/",
-    "date": "2026-06-03"
-  },
-  {
     "url": "https://therecord.media/cisa-directive-for-ai-exec-order-release",
     "date": "2026-06-04"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.axios.com/2026/06/09/drone-boat-helicopter-rescue-iran-saronic",
     "date": "2026-06-10"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/06/mystery-gps-outages-russian-satellite/414110/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/06/china-sites-security-clearance/414111/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/06/mythos-white-house/414112/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.justsecurity.org/139916/ai-coercion-climate-dividend/?utm_source=rss&utm_medium=rss&utm_campaign=ai-coercion-climate-dividend",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+    "date": "2026-06-11"
   }
 ]

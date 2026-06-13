@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/06/thales-ramps-up-guided-rocket-production-to-address-increased-me-demand/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://therecord.media/ftc-considers-modifying-150-million-twitter-privacy-fine",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/05/china-fueling-us-data-center-resistance-ai-groups-claim",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://warontherocks.com/cogs-of-war/the-pentagons-ai-edge-is-being-distilled-away/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://therecord.media/trump-considers-palantir-exec-to-lead-cisa",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/06/04/science/embryos-gene-editing-crispr.html",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-    "date": "2026-06-05"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
     "date": "2026-06-06"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.axios.com/2026/06/11/spacex-ipo-prices-75-billion",
     "date": "2026-06-12"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-victims",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://therecord.media/major-us-surveillance-program-set-to-lapse-702-fisa",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-13"
   }
 ]

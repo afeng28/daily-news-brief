@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://therecord.media/eu-unveils-tech-sovereignty-package-cut-reliance-us-china",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/06/dod-cyber-strategy-will-set-a-clear-and-specific-vision-for-ai-to-enable-the-force-official/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://www.justsecurity.org/141315/what-trump-ai-eo-got-right/?utm_source=rss&utm_medium=rss&utm_campaign=what-trump-ai-eo-got-right",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://thehill.com/homenews/state-watch/5912788-new-york-data-center-moratorium/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/",
-    "date": "2026-06-06"
-  },
-  {
     "url": "https://www.axios.com/2026/06/06/trump-us-stake-ai-companies",
     "date": "2026-06-07"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-13"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/13/anthropic-amazon-white-house",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://thehill.com/opinion/technology/5922176-ai-pause-anthropic-warning/",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.justsecurity.org/142619/anthropic-mythos-government-directive/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-mythos-government-directive",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/13/ai-power-electricity-data-centers-who-pays",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
+    "date": "2026-06-14"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.axios.com/2026/06/06/trump-us-stake-ai-companies",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-07"
-  },
-  {
     "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
     "date": "2026-06-09"
   },
@@ -278,5 +238,45 @@
   {
     "url": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
     "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/06/removal-nuclear-materials-iran/414180/",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/15/boris-epshteyn-trump",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/14/trump-situation-room-tapes-haberman-swan-regime-change",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/15/opinion/blanche-confirmation-trump-attorney-general.html",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+    "date": "2026-06-15"
   }
 ]

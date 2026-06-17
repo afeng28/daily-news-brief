@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/06/trump-memo-pushes-national-security-agencies-move-faster-ai/414047/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://www.justsecurity.org/141133/russia-drones-europe/?utm_source=rss&utm_medium=rss&utm_campaign=russia-drones-europe",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-    "date": "2026-06-09"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
     "date": "2026-06-10"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
     "date": "2026-06-16"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://therecord.media/github-dismissed-reports-shai-hulud-deep-specter",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/06/background-checks-clearance/414225/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/16/trump-ai-export-strategy-export-control",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/16/anthropic-fable-trump-white-house-cybersecurity",
+    "date": "2026-06-17"
   }
 ]

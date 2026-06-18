@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/06/cisa-directive-cyber-risk/414081/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://therecord.media/uk-weakens-telecoms-defenses-after-industry-lobbying",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/10/supreme-court-trump-elections-midterms-immigration",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/06/in-memo-to-centcom-commanders-cooper-warns-of-duty-to-protect-civilians/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/09/drone-boat-helicopter-rescue-iran-saronic",
-    "date": "2026-06-10"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
     "date": "2026-06-11"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.axios.com/2026/06/16/anthropic-fable-trump-white-house-cybersecurity",
     "date": "2026-06-17"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.defenseone.com/defense-systems/2026/06/anduril-general-atomics-get-air-force-contracts-build-first-drone-wingmen/414266/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/06/want-join-nga-bring-ai-skills-intel-ops-leader-says/414247/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/06/peace-deal-iran-hackers/414246/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/06/ai-background-checks-hours-clearance-agency/414234/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "date": "2026-06-18"
   }
 ]

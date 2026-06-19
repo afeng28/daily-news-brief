@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/06/mystery-gps-outages-russian-satellite/414110/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/06/china-sites-security-clearance/414111/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/06/mythos-white-house/414112/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://www.justsecurity.org/139916/ai-coercion-climate-dividend/?utm_source=rss&utm_medium=rss&utm_campaign=ai-coercion-climate-dividend",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-    "date": "2026-06-11"
-  },
-  {
     "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
     "date": "2026-06-12"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
     "date": "2026-06-18"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.defenseone.com/defense-systems/2026/06/senate-pentagon-equity-stakes-private-companies/414279/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.justsecurity.org/141654/contracting-commons-japan-seabed-mining/?utm_source=rss&utm_medium=rss&utm_campaign=contracting-commons-japan-seabed-mining",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/06/ai-skills-hiring-baseline-national-geospatial-intelligence-agency/414251/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.govexec.com/workforce/2026/06/nsf-using-its-hq-move-revoke-telework-workers-disabilities-employees-say/414278/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://warontherocks.com/chinas-farm-drones-a-trojan-horse-washington-overlooks/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+    "date": "2026-06-19"
   }
 ]

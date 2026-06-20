@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/06/house-section-702-lapse-spy-chief/414139/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://therecord.media/cyber-force-not-included-senate-defense-roadmap",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://www.justsecurity.org/140041/fix-us-ai-exports-program/?utm_source=rss&utm_medium=rss&utm_campaign=fix-us-ai-exports-program",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://therecord.media/university-of-nottingham-cyber-incident-shiny-hunters",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/06/as-f-35-readiness-lags-pentagon-seeks-13-7-billion-boost-gao/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/11/spacex-ipo-prices-75-billion",
-    "date": "2026-06-12"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
     "date": "2026-06-13"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
     "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://therecord.media/socgholish-botnet-disrupted",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+    "date": "2026-06-20"
+  },
+  {
+    "url": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
+    "date": "2026-06-20"
   }
 ]

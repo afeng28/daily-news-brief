@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-victims",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://therecord.media/major-us-surveillance-program-set-to-lapse-702-fisa",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
-    "date": "2026-06-13"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-13"
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-14"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
     "date": "2026-06-20"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/20/vance-iran-talks-switzerland",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.axios.com/2026/06/20/ai-tech-moguls-g7",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://thehill.com/homenews/administration/5932836-trump-threatens-strait-of-hormuz-tolls/",
+    "date": "2026-06-21"
   }
 ]

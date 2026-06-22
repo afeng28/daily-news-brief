@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/13/anthropic-amazon-white-house",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://thehill.com/opinion/technology/5922176-ai-pause-anthropic-warning/",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.justsecurity.org/142619/anthropic-mythos-government-directive/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-mythos-government-directive",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.axios.com/2026/06/13/ai-power-electricity-data-centers-who-pays",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
-    "date": "2026-06-14"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
     "date": "2026-06-15"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://thehill.com/homenews/administration/5932836-trump-threatens-strait-of-hormuz-tolls/",
     "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.justsecurity.org/143674/humphreys-executor-history/?utm_source=rss&utm_medium=rss&utm_campaign=humphreys-executor-history",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+    "date": "2026-06-22"
   }
 ]

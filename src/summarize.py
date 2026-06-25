@@ -11,7 +11,7 @@ from google.genai.errors import ClientError, ServerError
 
 logger = logging.getLogger(__name__)
 
-MODEL = "gemini-2.5-flash-lite"
+MODEL = "gemini-2.0-flash"
 _HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; daily-brief/1.0)"}
 
 _PROMPT_TEMPLATE = """\

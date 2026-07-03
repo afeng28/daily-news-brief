@@ -9,7 +9,7 @@ from google.genai.errors import ClientError, ServerError
 
 logger = logging.getLogger(__name__)
 
-MODEL = "gemini-2.0-flash"
+MODEL = "gemini-2.5-flash"
 
 _SYSTEM_PROMPT = """\
 You are an editorial briefer selecting 10 stories for a daily executive

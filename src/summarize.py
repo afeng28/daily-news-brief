@@ -11,7 +11,7 @@ from google.genai.errors import ClientError, ServerError
 
 logger = logging.getLogger(__name__)
 
-MODEL = "gemini-2.0-flash"
+MODEL = "gemini-2.5-flash"
 _HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; daily-brief/1.0)"}
 
 _PROMPT_TEMPLATE = """\
@@ -59,7 +59,7 @@ def summarize_story(story: dict) -> str:
                 raise
 
 
-def summarize_all(stories: list[dict], max_workers: int = 3) -> list[str]:
+def summarize_all(stories: list[dict], max_workers: int = 1) -> list[str]:
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
         return list(ex.map(summarize_story, stories))
 

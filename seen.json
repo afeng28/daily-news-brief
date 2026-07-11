@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/07/trump-says-pulte-can-declassify-whatever-he-wants-sparking-fears-exposing-intelligence-secrets/414577/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/07/genaimil-records-almost-17m-users-plans-new-model-additions/414569/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "date": "2026-07-03"
-  },
-  {
     "url": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
     "date": "2026-07-04"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://breakingdefense.com/2026/07/the-ai-disinformation-gap-the-pentagon-may-be-missing/",
     "date": "2026-07-10"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://therecord.media/chat-control-2-csam-scans-european-parliament-passage",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://therecord.media/china-india-ran-separate-spy-campaigns-against-same-police-force",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/10/iran-strait-hormuz-attacks-mou-deal",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.justsecurity.org/146250/srebrenica-genocide-islamophobic-narratives/?utm_source=rss&utm_medium=rss&utm_campaign=srebrenica-genocide-islamophobic-narratives",
+    "date": "2026-07-11"
   }
 ]

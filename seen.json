@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/07/house-homeland-committee-seeks-briefing-dhs-network-hack/414639/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.washingtonpost.com/politics/2026/07/07/ex-girlfriend-graham-platner-says-he-removed-condoms-without-consent/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.defenseone.com/business/2026/07/nato-snubs-boeing-picks-saab-build-alliances-next-radar-plane/414637/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.justsecurity.org/145577/venezuela-earthquake-end-us-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=venezuela-earthquake-end-us-sanctions",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/07/us-revokes-iran-oil-waivers-hormuz-strait-attacks",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-    "date": "2026-07-08"
-  },
-  {
     "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
     "date": "2026-07-09"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
     "date": "2026-07-15"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://therecord.media/genetic-testing-settlement-data-breach",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://thehill.com/homenews/5970983-trump-removes-george-washington-slavery-exhibit/",
+    "date": "2026-07-16"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.wired.com/story/data-centers-taking-over-texas-pollution-could-be-catastrophic/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://therecord.media/nsa-revives-tao-name-for-elite-hacking-unit",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://therecord.media/eu-cyber-filing-ireland-spain-france-netherlands-nis2",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.justsecurity.org/145562/effective-export-controls-semiconductor-equipment/?utm_source=rss&utm_medium=rss&utm_campaign=effective-export-controls-semiconductor-equipment",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/09/mexico-trump-us-prosecutors-ice-deaths",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/07/the-ai-disinformation-gap-the-pentagon-may-be-missing/",
-    "date": "2026-07-10"
-  },
-  {
     "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
     "date": "2026-07-11"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
     "date": "2026-07-17"
+  },
+  {
+    "url": "https://thehill.com/newsletters/technology/5975555-sacks-warns-us-risks-losing-ai-edge-after-new-chinese-model-launch/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://www.defenseone.com/ideas/2026/07/trump-terrorism-national-security-memo/414853/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/07/navy-army-risk-wasting-money-time-without-unified-hypersonic-missile-strategy-gao/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+    "date": "2026-07-18"
   }
 ]

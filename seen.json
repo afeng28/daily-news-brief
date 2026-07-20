@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.politico.com/live-updates/2026/07/11/world-cup-2026/norway-israel-fifa-gaza-institutional-pressure-protest-00993896",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/11/iran-strikes-cargo-ship-in-strait-of-hormuz-defying-us-ultimatum",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/11/iran-trump-revenge-assassination",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://thehill.com/policy/technology/5963428-crypto-bill-clarity-act-make-or-break-congress/",
-    "date": "2026-07-12"
-  },
-  {
     "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html",
     "date": "2026-07-13"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
     "date": "2026-07-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://warontherocks.com/cogs-of-war/before-q-day-the-race-to-quantum-first/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/19/trump-alien-terrorist-removal-court-first-case",
+    "date": "2026-07-20"
   }
 ]

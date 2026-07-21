@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html",
-    "date": "2026-07-13"
-  },
-  {
     "url": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
     "date": "2026-07-14"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.axios.com/2026/07/19/trump-alien-terrorist-removal-court-first-case",
     "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.govexec.com/management/2026/07/secret-service-examining-apparent-iranian-video-outlining-trump-motorcade-routes-assassination-opportunities/414884/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/07/lockheed-martin-unveils-baby-patriot-missile-address-urgent-gap/414897/",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.justsecurity.org/146665/courts-grand-juries-reject-trump-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=courts-grand-juries-reject-trump-investigations",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+    "date": "2026-07-21"
   }
 ]

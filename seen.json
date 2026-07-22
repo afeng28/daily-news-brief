@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://thehill.com/policy/defense/5966603-trump-threatens-pickaxe-mountain-iran/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://www.axios.com/local/salt-lake-city/2026/07/13/trump-cuts-grand-staircase-escalante-bears-ears-national-monuments-utah",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
-    "date": "2026-07-14"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
     "date": "2026-07-15"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
     "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/21/trump-smoot-hawley-tariffs-canada",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/07/ai-labs-spies/414929/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.justsecurity.org/148430/ai-surveillance-commercial-data-loophole/?utm_source=rss&utm_medium=rss&utm_campaign=ai-surveillance-commercial-data-loophole",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+    "date": "2026-07-22"
   }
 ]

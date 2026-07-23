@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://therecord.media/russian-intelligence-compromising-cameras-nato-ukraine-netherlands",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/14/us/politics/us-war-iran-next-phase.html",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://www.govexec.com/management/2026/07/ice-pulling-back-vehicle-stops-after-2-fatal-shootings/414759/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-    "date": "2026-07-15"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "date": "2026-07-16"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
     "date": "2026-07-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/22/us/immigration-civil-fines-self-deportation.html",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/07/lawmakers-get-taste-ai-enabled-cyberattacks-china-taiwan-war-game/414952/",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.justsecurity.org/148444/ai-warrantless-foreign-intelligence-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=ai-warrantless-foreign-intelligence-surveillance",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.govexec.com/management/2026/07/lawmakers-avoid-shutdown-and-reconsider-getting-rid-them-entirely/414949/",
+    "date": "2026-07-23"
   }
 ]

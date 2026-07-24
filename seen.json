@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://therecord.media/genetic-testing-settlement-data-breach",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://thehill.com/homenews/5970983-trump-removes-george-washington-slavery-exhibit/",
-    "date": "2026-07-16"
-  },
-  {
     "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
     "date": "2026-07-17"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.govexec.com/management/2026/07/lawmakers-avoid-shutdown-and-reconsider-getting-rid-them-entirely/414949/",
     "date": "2026-07-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.justsecurity.org/148907/civilian-infrastructure-becomes-lawful-target/?utm_source=rss&utm_medium=rss&utm_campaign=civilian-infrastructure-becomes-lawful-target",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://warontherocks.com/before-a-cyber-force-fix-cyber-governance/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/07/hundreds-drone-first-responder-programs-could-soon-be-launched-across-country",
+    "date": "2026-07-24"
   }
 ]

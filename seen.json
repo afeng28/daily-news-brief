@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://www.govexec.com/management/2026/07/secret-service-examining-apparent-iranian-video-outlining-trump-motorcade-routes-assassination-opportunities/414884/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/07/lockheed-martin-unveils-baby-patriot-missile-address-urgent-gap/414897/",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://www.justsecurity.org/146665/courts-grand-juries-reject-trump-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=courts-grand-juries-reject-trump-investigations",
-    "date": "2026-07-21"
-  },
-  {
-    "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
-    "date": "2026-07-21"
-  },
-  {
     "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
     "date": "2026-07-22"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://breakingdefense.com/2026/07/coast-guard-searching-for-tech-to-defeat-unmanned-underwater-vehicles/",
     "date": "2026-07-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/07/centcom-announces-us-uae-task-force-on-ai/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://warontherocks.com/parsing-trumps-decision-to-maybe-give-uranium-enrichment-to-saudi-arabia/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/29/zelensky-axios-interview-putin-iran-war",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/28/iran-missile-attack-us-base-jordan",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://www.justsecurity.org/146367/effective-investigative-interviewing-without-torture/?utm_source=rss&utm_medium=rss&utm_campaign=effective-investigative-interviewing-without-torture",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
+    "date": "2026-07-29"
   }
 ]

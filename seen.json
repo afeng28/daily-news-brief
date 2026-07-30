@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/21/trump-smoot-hawley-tariffs-canada",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/07/ai-labs-spies/414929/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.justsecurity.org/148430/ai-surveillance-commercial-data-loophole/?utm_source=rss&utm_medium=rss&utm_campaign=ai-surveillance-commercial-data-loophole",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-    "date": "2026-07-22"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
     "date": "2026-07-23"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
     "date": "2026-07-29"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/30/ai-safety-slowdown-anthropic-openai",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/07/amazon-uncovers-broad-north-korean-hacking-campaign-against-open-source-software/415110/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://www.defenseone.com/defense-systems/2026/07/cca-usaf-robot-wingman/415093/",
+    "date": "2026-07-30"
   }
 ]

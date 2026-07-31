@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/22/us/immigration-civil-fines-self-deportation.html",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/22/trump-iran-bridges-power-plants-hormuz",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/07/lawmakers-get-taste-ai-enabled-cyberattacks-china-taiwan-war-game/414952/",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.justsecurity.org/148444/ai-warrantless-foreign-intelligence-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=ai-warrantless-foreign-intelligence-surveillance",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.govexec.com/management/2026/07/lawmakers-avoid-shutdown-and-reconsider-getting-rid-them-entirely/414949/",
-    "date": "2026-07-23"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
     "date": "2026-07-24"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.defenseone.com/defense-systems/2026/07/cca-usaf-robot-wingman/415093/",
     "date": "2026-07-30"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.justsecurity.org/144022/ai-military-domain-multilateralism-crossroad/?utm_source=rss&utm_medium=rss&utm_campaign=ai-military-domain-multilateralism-crossroad",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/31/google-search-publishers-seo-geo-llms-ai",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/07/airpower-opened-irans-skies-why-hasnt-it-reopened-hormuz/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "date": "2026-07-31"
   }
 ]

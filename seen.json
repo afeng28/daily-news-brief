@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://therecord.media/thailand-hackers-ai-finance-ministry",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://therecord.media/federal-purge-outdated-vpns-wyden-letter",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/27/iran-war-trump-sanctions-blockade-economy",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/07/coast-guard-searching-for-tech-to-defeat-unmanned-underwater-vehicles/",
-    "date": "2026-07-28"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
     "date": "2026-07-29"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
     "date": "2026-08-04"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/04/anthropic-openai-uk-ai-security-institute",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/04/water-cyberattacks-us-iran",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://therecord.media/apple-uk-tcn-icloud-new-legal-challenge",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.justsecurity.org/150875/antitrust-uncertainty-ai-security-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=antitrust-uncertainty-ai-security-collaboration",
+    "date": "2026-08-05"
   }
 ]

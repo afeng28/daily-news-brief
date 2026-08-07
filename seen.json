@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/30/ai-safety-slowdown-anthropic-openai",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/07/amazon-uncovers-broad-north-korean-hacking-campaign-against-open-source-software/415110/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://www.defenseone.com/defense-systems/2026/07/cca-usaf-robot-wingman/415093/",
-    "date": "2026-07-30"
-  },
-  {
     "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
     "date": "2026-07-31"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/08/06/us/transgender-gun-rights-wyoming.html",
     "date": "2026-08-06"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/08/ai-army-contract-lawsuit/415261/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/07/election-ai-deepfake-rules-states",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/06/trump-birth-tourism-birthright-citizenship",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/08/australian-commits-to-buying-secretive-aim-260-jatm-missiles-first-non-us-user/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+    "date": "2026-08-07"
   }
 ]

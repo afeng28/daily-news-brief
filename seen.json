@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.justsecurity.org/144022/ai-military-domain-multilateralism-crossroad/?utm_source=rss&utm_medium=rss&utm_campaign=ai-military-domain-multilateralism-crossroad",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/31/google-search-publishers-seo-geo-llms-ai",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/07/airpower-opened-irans-skies-why-hasnt-it-reopened-hormuz/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "date": "2026-07-31"
-  },
-  {
     "url": "https://therecord.media/anthropic-ai-hacked-three-real-companies",
     "date": "2026-08-01"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
     "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415289/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/07/trump-white-house-fed-cook",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://thehill.com/homenews/6018093-frank-kendall-air-force-secretary-pentagon/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/08/saudi-arabia-turkey-pakistan-ink-joint-defense-agreement/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/08/pentagon-wants-expanding-options-for-nuclear-weapons-officials-say/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/",
+    "date": "2026-08-08"
   }
 ]

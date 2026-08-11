@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.defenseone.com/business/2026/08/attackers-are-targeting-open-source-ai-just-big-tech-embracing-it/415165/",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/02/us/politics/trump-iran-negotiations.html",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/03/opinion/ai-nationalization-government-tech.html",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
-    "date": "2026-08-03"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
     "date": "2026-08-04"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-10"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://warontherocks.com/putting-armageddon-on-autopilot-how-artificial-intelligence-could-make-nuclear-threats-more-effective/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.justsecurity.org/146358/aggregating-illegality-accumulation-events-doctrine/?utm_source=rss&utm_medium=rss&utm_campaign=aggregating-illegality-accumulation-events-doctrine",
+    "date": "2026-08-11"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://www.govexec.com/technology/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415289/",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/07/trump-white-house-fed-cook",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://thehill.com/homenews/6018093-frank-kendall-air-force-secretary-pentagon/",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/08/saudi-arabia-turkey-pakistan-ink-joint-defense-agreement/",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/08/pentagon-wants-expanding-options-for-nuclear-weapons-officials-say/",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/",
-    "date": "2026-08-08"
-  },
-  {
     "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
     "date": "2026-08-09"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
     "date": "2026-08-15"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://www.defenseone.com/business/2026/08/artillery-plant-made-nothing/415443/",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://thehill.com/homenews/house/6031642-house-democrats-probe-uss-lincoln/",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "date": "2026-08-16"
   }
 ]

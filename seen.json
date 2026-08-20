@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/08/golden-dome-congress-general/415355/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care",
-    "date": "2026-08-12"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
     "date": "2026-08-13"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy",
     "date": "2026-08-19"
+  },
+  {
+    "url": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://therecord.media/iran-cyberattacks-us-doj",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://therecord.media/electronic-health-record-company-carecloud-data-breach",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
+    "date": "2026-08-20"
   }
 ]

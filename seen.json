@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://warontherocks.com/russias-blurry-line-between-science-and-sabotage-beneath-the-oceans-surface/",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html",
-    "date": "2026-08-13"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
     "date": "2026-08-14"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
     "date": "2026-08-20"
+  },
+  {
+    "url": "https://therecord.media/china-cyber-espionage-central-asia",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/08/20/republican-mike-rogers-michigan-data-center-moratorium-01044140",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.justsecurity.org/154666/icc-sanctions-threat-us-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=icc-sanctions-threat-us-democracy",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+    "date": "2026-08-21"
   }
 ]

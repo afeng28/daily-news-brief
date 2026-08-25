@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/17/drug-prices-medicare-trump",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-    "date": "2026-08-17"
-  },
-  {
     "url": "https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html",
     "date": "2026-08-18"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
     "date": "2026-08-24"
+  },
+  {
+    "url": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://therecord.media/iran-cyberattacks-us-uk",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415614/",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/08/nsa-nda-whistleblower-law/415595/",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+    "date": "2026-08-25"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/18/trump-south-korea-allies-iran-war",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/18/ai-women-jobs-hiring",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.justsecurity.org/153773/administrative-subpoena-powers-outdated-fourth-amendment-doctrine/?utm_source=rss&utm_medium=rss&utm_campaign=administrative-subpoena-powers-outdated-fourth-amendment-doctrine",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.govexec.com/defense/2026/08/artillery-plant-made-nothing/415460/",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-    "date": "2026-08-18"
-  },
-  {
     "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
     "date": "2026-08-19"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
     "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://therecord.media/ukraine-uk-ai-drone-data",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://therecord.media/uk-technology-national-security",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/08/treasury-sanctions-iranian-hackers-tied-critical-infrastructure-breaches/415622/",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/08/hegseth-civilian-protection-axed/415621/",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "date": "2026-08-26"
   }
 ]

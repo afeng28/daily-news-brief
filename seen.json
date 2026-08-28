@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://therecord.media/iran-cyberattacks-us-doj",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://therecord.media/electronic-health-record-company-carecloud-data-breach",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
-    "date": "2026-08-20"
-  },
-  {
     "url": "https://therecord.media/china-cyber-espionage-central-asia",
     "date": "2026-08-21"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
     "date": "2026-08-27"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/08/nsa-wants-access-all-ai-models-top-official-says/415688/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://therecord.media/trump-cyber-electricity-parts",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/27/us/politics/judge-postal-service-mail-ballots.html",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/08/submarine-maintenance-delays-idle-time-cost-3-4-billion-gao-says/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
+    "date": "2026-08-28"
   }
 ]

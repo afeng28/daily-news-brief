@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://therecord.media/china-cyber-espionage-central-asia",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.politico.com/news/2026/08/20/republican-mike-rogers-michigan-data-center-moratorium-01044140",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.justsecurity.org/154666/icc-sanctions-threat-us-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=icc-sanctions-threat-us-democracy",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-    "date": "2026-08-21"
-  },
-  {
     "url": "https://www.defenseone.com/threats/2026/08/ai-enabled-deception-threatens-future-operations-raises-chances-large-conflict-says-special-operations-leader/415582/",
     "date": "2026-08-22"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
     "date": "2026-08-28"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan/",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.washingtonpost.com/politics/2026/08/28/trump-asks-supreme-court-allow-military-discharge-transgender-troops/",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.justsecurity.org/149160/collateral-accountability-oldest-check-federal-lawlessness/?utm_source=rss&utm_medium=rss&utm_campaign=collateral-accountability-oldest-check-federal-lawlessness",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+    "date": "2026-08-29"
   }
 ]

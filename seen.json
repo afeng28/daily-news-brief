@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.defenseone.com/business/2026/08/new-contract-aims-keep-space-forces-multi-billion-dollar-projects-budget/415588/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://warontherocks.com/cogs-of-war/betting-on-autonomous-aircraft/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
-    "date": "2026-08-24"
-  },
-  {
     "url": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
     "date": "2026-08-25"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://warontherocks.com/cogs-of-war/the-quantum-stack-and-the-countdown-to-q-day/",
     "date": "2026-08-31"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/08/us-military-chatgpt/415719/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.justsecurity.org/155198/expert-backgrounder-what-to-watch-for-at-this-weeks-pivotal-international-meeting-on-autonomous-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=expert-backgrounder-what-to-watch-for-at-this-weeks-pivotal-international-meeting-on-autonomous-weapons",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+    "date": "2026-09-01"
   }
 ]

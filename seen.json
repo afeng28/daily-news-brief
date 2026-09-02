@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://therecord.media/iran-cyberattacks-us-uk",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415614/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/08/nsa-nda-whistleblower-law/415595/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
-    "date": "2026-08-25"
-  },
-  {
     "url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
     "date": "2026-08-26"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
     "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://therecord.media/router-hacks-fire-ant-group-china",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.defenseone.com/defense-systems/2026/09/some-navy-subs-are-waiting-years-shipyard-work-and-s-costing-billions-dollars/415761/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.wired.com/story/high-energy-laser-us-shoots-down-drones-near-mexico-border/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/09/judge-rules-dod-unlawfully-retaliated-against-anthropic",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+    "date": "2026-09-02"
   }
 ]

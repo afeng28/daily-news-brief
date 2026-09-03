@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://therecord.media/ukraine-uk-ai-drone-data",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://therecord.media/uk-technology-national-security",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/08/treasury-sanctions-iranian-hackers-tied-critical-infrastructure-breaches/415622/",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/08/hegseth-civilian-protection-axed/415621/",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
-    "date": "2026-08-26"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
     "date": "2026-08-27"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
     "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://warontherocks.com/where-does-ai-escalation-come-from-we-dont-know-we-should-find-out/",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://therecord.media/sality-botnet-cyber-doj",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/03/brain-implants-elon-musk-neuralink-china-us",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value/",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/09/us-may-lack-engineers-rebuild-space-assets-future-war-rand/415788/",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03"
   }
 ]

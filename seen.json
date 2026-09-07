@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/29/cia-director-ratcliffe-putin-zelensky-summit-war",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://thehill.com/opinion/national-security/6057538-dod-shifts-focus-tactical-nukes/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
-    "date": "2026-08-30"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
     "date": "2026-08-31"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "date": "2026-09-06"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+    "date": "2026-09-07"
   }
 ]

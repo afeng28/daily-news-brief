@@ -48,7 +48,11 @@ def summarize_story(story: dict) -> str:
                 contents=prompt,
                 config=types.GenerateContentConfig(temperature=0.5),
             )
-            return response.text.strip()
+            text = response.text
+            if not text:
+                logger.warning("Empty response for: %s — using snippet", story["title"][:60])
+                return (story.get("snippet") or "")[:500]
+            return text.strip()
         except (ClientError, ServerError) as exc:
             retryable = "429" in str(exc) or "503" in str(exc)
             if retryable and attempt < 3:

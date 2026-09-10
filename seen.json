@@ -1,125 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://www.washingtonpost.com/nation/2026/08/30/grand-canyon-flooding-leaves-over-20-missing-dozens-evacuated-nps-says/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/30/lake-america-lake-ontario-maps-trump",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/30/us-iran-strike-hormuz-mines",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://warontherocks.com/cogs-of-war/the-quantum-stack-and-the-countdown-to-q-day/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/08/us-military-chatgpt/415719/",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://www.justsecurity.org/155198/expert-backgrounder-what-to-watch-for-at-this-weeks-pivotal-international-meeting-on-autonomous-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=expert-backgrounder-what-to-watch-for-at-this-weeks-pivotal-international-meeting-on-autonomous-weapons",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request/",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-    "date": "2026-09-01"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://therecord.media/router-hacks-fire-ant-group-china",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://www.defenseone.com/defense-systems/2026/09/some-navy-subs-are-waiting-years-shipyard-work-and-s-costing-billions-dollars/415761/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://www.wired.com/story/high-energy-laser-us-shoots-down-drones-near-mexico-border/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://www.eff.org/deeplinks/2026/09/judge-rules-dod-unlawfully-retaliated-against-anthropic",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-    "date": "2026-09-02"
-  },
-  {
     "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
     "date": "2026-09-03"
   },
@@ -318,5 +198,45 @@
   {
     "url": "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
     "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/09/ai-powered-biowarfare-looms-army-lays-plans-fight-through-it/415886/",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://therecord.media/cisa-hiring-nick-andersen-warning",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
+    "date": "2026-09-10"
   }
 ]

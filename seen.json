@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://therecord.media/thomson-reuters-cyberattack-data",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.justsecurity.org/156016/presidents-asp-states-parties-countering-assault-icc/?utm_source=rss&utm_medium=rss&utm_campaign=presidents-asp-states-parties-countering-assault-icc",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/03/well/pig-kidney-bridge-transplant.html",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/09/after-concerning-losses-air-force-pushes-to-replace-reaper-faster/",
-    "date": "2026-09-04"
-  },
-  {
     "url": "https://www.defenseone.com/threats/2026/09/AI-breakout-openai-complex/415825/",
     "date": "2026-09-05"
   },
@@ -238,5 +198,45 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
     "date": "2026-09-11"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://therecord.media/anthropic-russia-hackers-claude",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/09/russia-weaponizing-us-built-ai-make-killer-drones-cyberattack-bots-and-fake-news/415949/",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/09/space-force-picks-texas-as-us-home-for-trinational-darc-space-radar-network/",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/09/cold-take-amazons-new-encryption-method-still-doesnt-deliver-real-privacy",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://thehill.com/policy/technology/6085364-texas-tiktok-misled-consumers/",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+    "date": "2026-09-12"
   }
 ]

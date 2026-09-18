@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/09/ai-powered-biowarfare-looms-army-lays-plans-fight-through-it/415886/",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://therecord.media/cisa-hiring-nick-andersen-warning",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html",
-    "date": "2026-09-10"
-  },
-  {
     "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
     "date": "2026-09-11"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
     "date": "2026-09-17"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://therecord.media/china-hackers-latin-america-espionage",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/17/iran-war-crimes-un-mission-finds",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://thehill.com/policy/technology/6096844-moore-supports-data-center-moratorium/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.justsecurity.org/157413/us-deportees-equitorial-guinea-dictatorship/?utm_source=rss&utm_medium=rss&utm_campaign=us-deportees-equitorial-guinea-dictatorship",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/09/air-force-contemplates-unmanned-tankers/416069/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://therecord.media/congress-eyes-support-for-cyber-command-suicide-deaths",
+    "date": "2026-09-18"
   }
 ]

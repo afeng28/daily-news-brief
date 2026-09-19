@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/11/congress-ai-anthropic-coxon-researcher-democrats",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/11/houthis-yemen-saudi-trump-mbs-strikes",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/09/israeli-military-creates-new-branch-focused-on-ai-drones-and-robotics/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/09/wartime-protection-civilians/415925/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
-    "date": "2026-09-11"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
     "date": "2026-09-12"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://therecord.media/congress-eyes-support-for-cyber-command-suicide-deaths",
     "date": "2026-09-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+    "date": "2026-09-19"
   }
 ]

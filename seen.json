@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/12/us/politics/fema-cuts-homeland-security-trump-judge-rules.html",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.justsecurity.org/156963/usps-mail-ballots-solicitor-general-scotus/?utm_source=rss&utm_medium=rss&utm_campaign=usps-mail-ballots-solicitor-general-scotus",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-    "date": "2026-09-13"
-  },
-  {
     "url": "https://therecord.media/nsa-reorganization-five-mission-centers",
     "date": "2026-09-14"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html",
     "date": "2026-09-20"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/09/will-airmen-trust-ai-air-forces-future-plans-depend-it/416098/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.justsecurity.org/124002/timeline-vessel-strikes-related-actions/?utm_source=rss&utm_medium=rss&utm_campaign=timeline-vessel-strikes-related-actions",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/21/business/consulting-firms-employees-ai-startups.html",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+    "date": "2026-09-21"
   }
 ]

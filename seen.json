@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://therecord.media/nsa-reorganization-five-mission-centers",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://thehill.com/homenews/administration/6087423-trump-urges-ukraine-halt-russia-oil-strikes/",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.wired.com/story/burnerverse-maddie-kowalski/",
-    "date": "2026-09-14"
-  },
-  {
     "url": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
     "date": "2026-09-15"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
     "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://therecord.media/google-europe-location-data-fine",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.justsecurity.org/157670/federal-employees-ai-prompts-records-narrow-circumstances/?utm_source=rss&utm_medium=rss&utm_campaign=federal-employees-ai-prompts-records-narrow-circumstances",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+    "date": "2026-09-22"
   }
 ]

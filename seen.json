@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://therecord.media/revolut-scam-crypto-impersonation",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/14/supreme-court-trump-mail-in-voting-rule",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.justsecurity.org/156646/northeast-syria-detention-families/?utm_source=rss&utm_medium=rss&utm_campaign=northeast-syria-detention-families",
-    "date": "2026-09-15"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
     "date": "2026-09-16"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
     "date": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/09/shinyhunters-claims-fbi-data-theft-demands-bureau-retract-cyber-warning/416149/",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/09/fbi-defense-bribery-investigation/416138/",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
+    "date": "2026-09-23"
   }
 ]

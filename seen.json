@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/09/pentagon-battles-moon-joint-chiefs-chairman/416021/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/16/us/family-of-woman-who-died-while-pregnant-sues-texas-over-abortion-ban.html",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-    "date": "2026-09-17"
-  },
-  {
     "url": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
     "date": "2026-09-18"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
     "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://therecord.media/russia-forensics-technology-doj",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.justsecurity.org/158283/persecution-mexico-icc-cyber-policy/?utm_source=rss&utm_medium=rss&utm_campaign=persecution-mexico-icc-cyber-policy",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2026/09/24/stanford-removes-ai-altered-photo-that-replaced-hispanic-student-with-black-woman/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/25/magazine/why-we-cant-stop-predicting-the-apocalypse.html",
+    "date": "2026-09-25"
   }
 ]

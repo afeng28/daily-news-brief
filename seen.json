@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://therecord.media/china-hackers-latin-america-espionage",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/17/iran-war-crimes-un-mission-finds",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://thehill.com/policy/technology/6096844-moore-supports-data-center-moratorium/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.justsecurity.org/157413/us-deportees-equitorial-guinea-dictatorship/?utm_source=rss&utm_medium=rss&utm_campaign=us-deportees-equitorial-guinea-dictatorship",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/09/air-force-contemplates-unmanned-tankers/416069/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://therecord.media/congress-eyes-support-for-cyber-command-suicide-deaths",
-    "date": "2026-09-18"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
     "date": "2026-09-19"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/09/25/magazine/why-we-cant-stop-predicting-the-apocalypse.html",
     "date": "2026-09-25"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/25/openai-models-posted-user-images-online-in-latest-security-episode",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+    "date": "2026-09-26"
   }
 ]

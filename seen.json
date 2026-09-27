@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
-    "date": "2026-09-19"
-  },
-  {
     "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html",
     "date": "2026-09-20"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
     "date": "2026-09-26"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://thehill.com/policy/technology/6113061-openai-access-government-websites/",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/26/trump-iran-un-proposal",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-27"
   }
 ]

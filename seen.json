@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/09/will-airmen-trust-ai-air-forces-future-plans-depend-it/416098/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.justsecurity.org/124002/timeline-vessel-strikes-related-actions/?utm_source=rss&utm_medium=rss&utm_campaign=timeline-vessel-strikes-related-actions",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/21/business/consulting-firms-employees-ai-startups.html",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-    "date": "2026-09-21"
-  },
-  {
     "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
     "date": "2026-09-22"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://warontherocks.com/speed-to-fielding-is-not-speed-to-combat-power/",
     "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/09/openai-says-its-advanced-models-may-have-gone-after-government-websites/416285/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/28/ai-pioneers-intelligence-explosion",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://therecord.media/facebook-new-mexico-privacy",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.washingtonpost.com/transportation/2026/09/28/trump-says-new-fuel-economy-rules-will-cut-car-prices-analysts-are-doubtful/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/09/hegseth-orders-cyber-intelligence-agencies-prioritize-election-defense/416295/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.justsecurity.org/158987/guantanamo-dispatch-innocent-guilty-accused-cole-bomber-may-never-free/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-innocent-guilty-accused-cole-bomber-may-never-free",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+    "date": "2026-09-29"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.govexec.com/technology/2026/09/shinyhunters-claims-fbi-data-theft-demands-bureau-retract-cyber-warning/416149/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/09/fbi-defense-bribery-investigation/416138/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
-    "date": "2026-09-23"
-  },
-  {
     "url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
     "date": "2026-09-24"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html",
     "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/09/hegseth-plans-autonomous-warfare-command/416358/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/09/china-opens-training-center-with-laos-marking-third-overseas-military-base/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.justsecurity.org/158486/time-to-repeal-the-2001-aumf-end-forever-war/?utm_source=rss&utm_medium=rss&utm_campaign=time-to-repeal-the-2001-aumf-end-forever-war",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
+    "date": "2026-10-01"
   }
 ]

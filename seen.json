@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/09/stolen-fbi-data-reveals-employees-roles-intelligence-and-surveillance/416185/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://thehill.com/homenews/administration/6107663-trump-xi-state-visit-welcome/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/09/genaimil-saw-more-2-million-users-one-week-top-dod-official-says/416186/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.justsecurity.org/157437/muse-meta-power-decide-what-matters/?utm_source=rss&utm_medium=rss&utm_campaign=muse-meta-power-decide-what-matters",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.washingtonpost.com/health/2026/09/23/states-can-soon-order-covid-vaccines-low-income-children-after-delay/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/09/uk-launches-first-space-squadron-to-degrade-and-deny-enemies/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-    "date": "2026-09-24"
-  },
-  {
     "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
     "date": "2026-09-25"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
     "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://therecord.media/iran-montenegro-hacker-extradition",
+    "date": "2026-10-02"
   }
 ]

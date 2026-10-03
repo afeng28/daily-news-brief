@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://therecord.media/russia-forensics-technology-doj",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.justsecurity.org/158283/persecution-mexico-icc-cyber-policy/?utm_source=rss&utm_medium=rss&utm_campaign=persecution-mexico-icc-cyber-policy",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.washingtonpost.com/education/2026/09/24/stanford-removes-ai-altered-photo-that-replaced-hispanic-student-with-black-woman/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/25/magazine/why-we-cant-stop-predicting-the-apocalypse.html",
-    "date": "2026-09-25"
-  },
-  {
     "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
     "date": "2026-09-26"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://therecord.media/iran-montenegro-hacker-extradition",
     "date": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.govexec.com/oversight/2026/10/housing-finance-agency-chief-moves-slash-watchdogs-budget-leading-democrats-demand-his-resignation/416397/",
+    "date": "2026-10-03"
   }
 ]

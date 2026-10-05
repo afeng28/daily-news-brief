@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://thehill.com/policy/technology/6113061-openai-access-government-websites/",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/26/trump-iran-un-proposal",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
     "date": "2026-09-28"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html",
     "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://warontherocks.com/cogs-of-war/the-ai-assisted-strategic-own-goal-in-the-kill-chain/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://warontherocks.com/china-is-watching-us-is-the-u-s-air-force-still-watching-china/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.justsecurity.org/124002/timeline-vessel-strikes-related-actions/?utm_source=rss&utm_medium=rss&utm_campaign=timeline-vessel-strikes-related-actions",
+    "date": "2026-10-05"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://warontherocks.com/cogs-of-war/collective-defense-in-an-era-of-tokens-and-data-links/",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://thehill.com/policy/technology/6113698-bill-gates-ai-nuclear-comparison/",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://warontherocks.com/speed-to-fielding-is-not-speed-to-combat-power/",
-    "date": "2026-09-28"
-  },
-  {
     "url": "https://www.govexec.com/technology/2026/09/openai-says-its-advanced-models-may-have-gone-after-government-websites/416285/",
     "date": "2026-09-29"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.justsecurity.org/124002/timeline-vessel-strikes-related-actions/?utm_source=rss&utm_medium=rss&utm_campaign=timeline-vessel-strikes-related-actions",
     "date": "2026-10-05"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/10/pentagon-personnel-data-breach-went-undetected-months/416421/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.defenseone.com/policy/2026/10/us-intel-chief-white-house-ai-czar/416416/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.justsecurity.org/159224/working-backwards-trump-doj-civil-rights-enforcement/?utm_source=rss&utm_medium=rss&utm_campaign=working-backwards-trump-doj-civil-rights-enforcement",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
+    "date": "2026-10-06"
   }
 ]

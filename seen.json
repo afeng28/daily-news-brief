@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.axios.com/2026/09/30/ai-constitution-trump-white-house",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/29/trump-ads-taxpayer-funds",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.washingtonpost.com/education/2026/09/29/hegseth-bars-military-academies-hiring-civilians-tenured-professors/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html",
-    "date": "2026-09-30"
-  },
-  {
     "url": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
     "date": "2026-10-01"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
     "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://thehill.com/homenews/campaign/6135173-texas-midterm-elections-trump-visit/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/10/recent-taiwan-simulation-highlights-us-cyberdefense-gaps-against-china-experts-warn/416487/",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+    "date": "2026-10-08"
   }
 ]

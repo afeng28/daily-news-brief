@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/09/hegseth-plans-autonomous-warfare-command/416358/",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/09/china-opens-training-center-with-laos-marking-third-overseas-military-base/",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.justsecurity.org/158486/time-to-repeal-the-2001-aumf-end-forever-war/?utm_source=rss&utm_medium=rss&utm_campaign=time-to-repeal-the-2001-aumf-end-forever-war",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
-    "date": "2026-10-01"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
     "date": "2026-10-02"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
     "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://therecord.media/ransomware-recovery-charges-doj",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/10/va-rolls-out-clear-login-option-and-person-identity-verification-pilot/416516/",
+    "date": "2026-10-09"
   }
 ]

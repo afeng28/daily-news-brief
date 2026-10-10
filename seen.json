@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://therecord.media/iran-montenegro-hacker-extradition",
-    "date": "2026-10-02"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
     "date": "2026-10-03"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.govexec.com/technology/2026/10/va-rolls-out-clear-login-option-and-person-identity-verification-pilot/416516/",
     "date": "2026-10-09"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://therecord.media/japan-germany-ransomware-arrest",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/10/pentagon-lockheed-weigh-multi-year-f-35-production-sustainment-deal/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+    "date": "2026-10-10"
   }
 ]

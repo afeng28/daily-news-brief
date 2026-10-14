@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/10/pentagon-personnel-data-breach-went-undetected-months/416421/",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.defenseone.com/policy/2026/10/us-intel-chief-white-house-ai-czar/416416/",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.justsecurity.org/159224/working-backwards-trump-doj-civil-rights-enforcement/?utm_source=rss&utm_medium=rss&utm_campaign=working-backwards-trump-doj-civil-rights-enforcement",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
-    "date": "2026-10-06"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
     "date": "2026-10-07"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
     "date": "2026-10-13"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+    "date": "2026-10-14"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.govexec.com/technology/2026/10/fbi-removes-accenture-contractor-after-missed-security-patch-led-breach/416446/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/06/us/politics/justice-department-civil-rights-division.html",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.defenseone.com/business/2026/10/anduril-wades-traditional-shipbuilding-arena-major-submarine-play/416459/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.justsecurity.org/159740/another-confession-ruled-inadmissible-9-11-case/?utm_source=rss&utm_medium=rss&utm_campaign=another-confession-ruled-inadmissible-9-11-case",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-    "date": "2026-10-07"
-  },
-  {
     "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
     "date": "2026-10-08"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
     "date": "2026-10-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/10/trump-foreign-influence-retreat/416587/",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.govexec.com/technology/2026/10/opm-revamps-online-pay-tables-spearheads-ai-adoption/416597/",
+    "date": "2026-10-15"
   }
 ]

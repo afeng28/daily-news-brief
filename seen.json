@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://thehill.com/homenews/campaign/6135173-texas-midterm-elections-trump-visit/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/10/recent-taiwan-simulation-highlights-us-cyberdefense-gaps-against-china-experts-warn/416487/",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-    "date": "2026-10-08"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "date": "2026-10-09"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.govexec.com/technology/2026/10/opm-revamps-online-pay-tables-spearheads-ai-adoption/416597/",
     "date": "2026-10-15"
+  },
+  {
+    "url": "https://therecord.media/spyware-citizen-lab-advertising",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.justsecurity.org/160981/eight-states-sue-openai-chatgpt-safety/?utm_source=rss&utm_medium=rss&utm_campaign=eight-states-sue-openai-chatgpt-safety",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://therecord.media/uk-legal-aid-cyberattack-data",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/16/trumps-maga-allies-openly-discuss-martial-law",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+    "date": "2026-10-16"
   }
 ]

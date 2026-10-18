@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://therecord.media/japan-germany-ransomware-arrest",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/10/pentagon-lockheed-weigh-multi-year-f-35-production-sustainment-deal/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-    "date": "2026-10-10"
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-11"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html",
     "date": "2026-10-17"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.defenseone.com/ideas/2026/10/us-withdrawal-isis-dilemma/416631/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://thehill.com/opinion/international/6154927-illicit-mining-funds-violence/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.justsecurity.org/161173/military-psychiatrist-uss-cole/?utm_source=rss&utm_medium=rss&utm_campaign=military-psychiatrist-uss-cole",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
+    "date": "2026-10-18"
   }
 ]

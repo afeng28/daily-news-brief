@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://thehill.com/policy/international/6141601-russia-strikes-ukraine-power-plant/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
-    "date": "2026-10-12"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
     "date": "2026-10-13"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
     "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/10/trump-appointees-cybersecurity-agency-hack-voting-machine/416692/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://therecord.media/serbia-spyware-pegasus-elections",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
+    "date": "2026-10-20"
   }
 ]

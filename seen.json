@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-    "date": "2026-10-14"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
     "date": "2026-10-15"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.justsecurity.org/161316/data-centers-war-duty-protect-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-war-duty-protect-civilians",
     "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.justsecurity.org/161614/dhs-deepseek-exclusion-removal-order/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-deepseek-exclusion-removal-order",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.justsecurity.org/161589/defense-psychiatrist-uss-cole-defendant-unfit-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defense-psychiatrist-uss-cole-defendant-unfit-trial",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "date": "2026-10-22"
   }
 ]

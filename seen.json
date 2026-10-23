@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/10/trump-foreign-influence-retreat/416587/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.govexec.com/technology/2026/10/opm-revamps-online-pay-tables-spearheads-ai-adoption/416597/",
-    "date": "2026-10-15"
-  },
-  {
     "url": "https://therecord.media/spyware-citizen-lab-advertising",
     "date": "2026-10-16"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
     "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.justsecurity.org/161488/frontier-ai-independent-evaluations-inconvenient-questions/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-ai-independent-evaluations-inconvenient-questions",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://therecord.media/china-cyber-connectwise-ai",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "date": "2026-10-23"
   }
 ]

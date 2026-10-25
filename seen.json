@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://therecord.media/beyond-trust-cyberattack-china",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/10/marines-fielding-new-tech-prolonged-medical-care-battlefield/416656/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html",
-    "date": "2026-10-17"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
     "date": "2026-10-18"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://thehill.com/policy/technology/6169375-paxton-sues-openai-chatgpt/",
     "date": "2026-10-24"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
+    "date": "2026-10-25"
   }
 ]

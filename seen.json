@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://www.defenseone.com/ideas/2026/10/us-withdrawal-isis-dilemma/416631/",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://thehill.com/opinion/international/6154927-illicit-mining-funds-violence/",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://www.justsecurity.org/161173/military-psychiatrist-uss-cole/?utm_source=rss&utm_medium=rss&utm_campaign=military-psychiatrist-uss-cole",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
-    "date": "2026-10-18"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
     "date": "2026-10-19"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
     "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/10/25/ai-non-english-language-voters-01132772",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/25/trump-doj-midterms-interference",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration/",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-26"
   }
 ]

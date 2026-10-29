@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.defenseone.com/threats/2026/10/military-power-rising-power-diplomacy-falling-diplomats-crisis-monitors-allies-say/416720/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.justsecurity.org/161316/data-centers-war-duty-protect-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-war-duty-protect-civilians",
-    "date": "2026-10-21"
-  },
-  {
     "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
     "date": "2026-10-22"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
     "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+    "date": "2026-10-29"
   }
 ]

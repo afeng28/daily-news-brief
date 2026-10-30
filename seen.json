@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.justsecurity.org/161614/dhs-deepseek-exclusion-removal-order/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-deepseek-exclusion-removal-order",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.justsecurity.org/161589/defense-psychiatrist-uss-cole-defendant-unfit-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defense-psychiatrist-uss-cole-defendant-unfit-trial",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-    "date": "2026-10-22"
-  },
-  {
     "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
     "date": "2026-10-23"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
     "date": "2026-10-29"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/10/taiwan-2027-conflict-window-remains-valid-army-pacific-commander-says/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+    "date": "2026-10-30"
   }
 ]

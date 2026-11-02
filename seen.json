@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
-    "date": "2026-10-25"
-  },
-  {
     "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
     "date": "2026-10-26"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-01"
+  },
+  {
+    "url": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/11/01/state-supreme-court-midterm-elections-01144147",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://warontherocks.com/cogs-of-war/the-pentagon-silicon-complex-and-the-rise-of-the-neo-primes/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/",
+    "date": "2026-11-02"
   }
 ]

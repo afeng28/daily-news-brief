@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/10/death-swivel-chair-how-army-indopacom-bridge-comms-allies/416826/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.justsecurity.org/161994/uss-cole-bombing-defendant-ptsd-fit-trial/?utm_source=rss&utm_medium=rss&utm_campaign=uss-cole-bombing-defendant-ptsd-fit-trial",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "date": "2026-10-27"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
     "date": "2026-10-28"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
     "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2026/11/unraveling-pentagons-quantum-problem/417029/",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
+    "date": "2026-11-04"
   }
 ]

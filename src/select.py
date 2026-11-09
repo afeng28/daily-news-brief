@@ -35,7 +35,10 @@ Return ONLY valid JSON in this exact shape, no markdown fences, no preamble:
 
 
 def select_top_stories(candidates: list[dict]) -> list[dict]:
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    client = genai.Client(
+        api_key=os.environ["GEMINI_API_KEY"],
+        http_options=types.HttpOptions(api_version="v1beta"),
+    )
 
     candidate_text = _build_candidate_list(candidates)
 

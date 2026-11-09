@@ -40,7 +40,10 @@ def summarize_story(story: dict) -> str:
         body=body,
     )
 
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    client = genai.Client(
+        api_key=os.environ["GEMINI_API_KEY"],
+        http_options=types.HttpOptions(api_version="v1beta"),
+    )
     for attempt in range(4):
         try:
             response = client.models.generate_content(

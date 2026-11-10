@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.politico.com/news/2026/11/01/state-supreme-court-midterm-elections-01144147",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://warontherocks.com/cogs-of-war/the-pentagon-silicon-complex-and-the-rise-of-the-neo-primes/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/",
-    "date": "2026-11-02"
-  },
-  {
     "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
     "date": "2026-11-03"
   },
@@ -198,5 +158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
     "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://therecord.media/cyberattack-germany-ai-mittwald",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.defenseone.com/business/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417144/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://warontherocks.com/winning-time-ukraines-unmanned-systems-forces-and-the-new-dimension-of-war/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+    "date": "2026-11-10"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://www.justsecurity.org/161298/ai-targeting-civilian-protection-congress-questions/?utm_source=rss&utm_medium=rss&utm_campaign=ai-targeting-civilian-protection-congress-questions",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
-    "date": "2026-11-03"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
     "date": "2026-11-04"
   },
@@ -198,5 +158,45 @@
   {
     "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
     "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://www.justsecurity.org/163989/judge-bars-doj-attorney-thomas-price/?utm_source=rss&utm_medium=rss&utm_campaign=judge-bars-doj-attorney-thomas-price",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "date": "2026-11-11"
   }
 ]

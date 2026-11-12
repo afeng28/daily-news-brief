@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://www.defenseone.com/technology/2026/11/unraveling-pentagons-quantum-problem/417029/",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
-    "date": "2026-11-04"
-  },
-  {
     "url": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
     "date": "2026-11-05"
   },
@@ -198,5 +158,45 @@
   {
     "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
     "date": "2026-11-11"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle/",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+    "date": "2026-11-12"
   }
 ]

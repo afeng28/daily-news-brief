@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://therecord.media/hackers-russia-italy-noname",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://warontherocks.com/cogs-of-war/the-record-budgets-and-missing-suppliers-shaping-americas-munitions-ramp/",
-    "date": "2026-11-09"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
-    "date": "2026-11-09"
-  },
-  {
     "url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
     "date": "2026-11-10"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
     "date": "2026-11-16"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.justsecurity.org/164505/state-department-israel-leahy-laws/?utm_source=rss&utm_medium=rss&utm_campaign=state-department-israel-leahy-laws",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
+    "date": "2026-11-17"
   }
 ]

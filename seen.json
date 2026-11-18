@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://therecord.media/cyberattack-germany-ai-mittwald",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://www.defenseone.com/business/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417144/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://warontherocks.com/winning-time-ukraines-unmanned-systems-forces-and-the-new-dimension-of-war/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-    "date": "2026-11-10"
-  },
-  {
     "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
     "date": "2026-11-11"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
     "date": "2026-11-17"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://therecord.media/cisa-issues-java4shell-alert",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://www.justsecurity.org/161720/how-should-us-use-space-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=how-should-us-use-space-weapons",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://www.justsecurity.org/164387/game-theory-basis-us-china-cooperation-ai/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory-basis-us-china-cooperation-ai",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "date": "2026-11-18"
   }
 ]

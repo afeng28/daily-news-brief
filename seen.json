@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://www.justsecurity.org/163989/judge-bars-doj-attorney-thomas-price/?utm_source=rss&utm_medium=rss&utm_campaign=judge-bars-doj-attorney-thomas-price",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-    "date": "2026-11-11"
-  },
-  {
     "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
     "date": "2026-11-12"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
     "date": "2026-11-18"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/11/major-ai-platforms-generated-viable-plans-terrorist-attacks-gao-finds/417308/",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://therecord.media/nsa-continues-response-to-nsa-net-problems",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://therecord.media/russia-cyber-espionage-google",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/19/china-biotech-policy-warning",
+    "date": "2026-11-19"
   }
 ]

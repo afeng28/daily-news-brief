@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle/",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
-    "date": "2026-11-12"
-  },
-  {
     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
     "date": "2026-11-13"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://www.axios.com/2026/11/19/china-biotech-policy-warning",
     "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.defenseone.com/threats/2026/11/i-was-seriously-wrong-ai-experts-say-superintelligent-ai-may-arrive-soon-next-year/417348/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "date": "2026-11-20"
   }
 ]

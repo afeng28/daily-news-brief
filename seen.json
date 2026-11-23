@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
-    "date": "2026-11-15"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
     "date": "2026-11-16"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/",
     "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://warontherocks.com/the-double-alignment-problem-civil-military-relations-in-the-age-of-artificial-intelligence/",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "date": "2026-11-23"
   }
 ]

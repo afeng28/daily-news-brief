@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.justsecurity.org/164505/state-department-israel-leahy-laws/?utm_source=rss&utm_medium=rss&utm_campaign=state-department-israel-leahy-laws",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
-    "date": "2026-11-17"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
     "date": "2026-11-18"
   },
@@ -318,5 +278,45 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
     "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+    "date": "2026-11-25"
   }
 ]

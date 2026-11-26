@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://therecord.media/cisa-issues-java4shell-alert",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://www.justsecurity.org/161720/how-should-us-use-space-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=how-should-us-use-space-weapons",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://www.justsecurity.org/164387/game-theory-basis-us-china-cooperation-ai/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory-basis-us-china-cooperation-ai",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "date": "2026-11-18"
-  },
-  {
     "url": "https://www.defenseone.com/threats/2026/11/major-ai-platforms-generated-viable-plans-terrorist-attacks-gao-finds/417308/",
     "date": "2026-11-19"
   },
@@ -318,5 +278,53 @@
   {
     "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
     "date": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://therecord.media/ransomware-doj-indictment-recovery",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "date": "2026-11-26"
   }
 ]
